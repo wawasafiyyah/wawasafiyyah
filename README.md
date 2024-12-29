@@ -27,7 +27,7 @@ I’m a beginner at programming, but I’m full of curiosity and excitement to l
 ---
 
 ### 🌍 **Visitor Counter**  
-![Profile Views](https://komarev.com/ghpvc/?username=wawasafiyyah&color=brightgreen&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=wawasafiyyah&color=00d4d4&style=for-the-badge)
 
 ---
 
