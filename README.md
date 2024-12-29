@@ -27,7 +27,7 @@ I’m a beginner at programming, but I’m full of curiosity and excitement to l
 ---
 
 ### 🌍 **Visitor Counter**  
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)  
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=wawasafiyyah.wawasafiyyah)  
 
 ---
 
