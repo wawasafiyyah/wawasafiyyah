@@ -31,9 +31,9 @@ I’m a beginner at programming, but I’m full of curiosity and excitement to l
 
 ---
 
-<iframe src="https://giphy.com/embed/5AyrPKCGSgv2RsXnse" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>  
+![Hello GIF](https://media.giphy.com/media/5AyrPKCGSgv2RsXnse/giphy.gif)  
 
-[via GIPHY](https://giphy.com/gifs/helloall-love-muslim-woman-5AyrPKCGSgv2RsXnse)  
+[via GIPHY](https://giphy.com/gifs/helloall-love-muslim-woman-5AyrPKCGSgv2RsXnse) 
 
 ---
 
