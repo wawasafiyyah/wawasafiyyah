@@ -31,10 +31,12 @@ I’m a beginner at programming, but I’m full of curiosity and excitement to l
 
 ---
 
+Stay tuned as I learn, grow, and share my journey here! 🚀
+
+
 ![Hello GIF](https://media.giphy.com/media/5AyrPKCGSgv2RsXnse/giphy.gif)  
 
 [via GIPHY](https://giphy.com/gifs/helloall-love-muslim-woman-5AyrPKCGSgv2RsXnse) 
 
 ---
 
-Stay tuned as I learn, grow, and share my journey here! 🚀
