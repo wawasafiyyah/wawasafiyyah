@@ -1,7 +1,7 @@
 # Hello! 👋  
 
 <h3 align="center">Welcome to my GitHub Profile!</h3>
-<h3 align="center">I'm a **1st-year Computer Science student** at **Universiti Teknologi Malaysia**, specializing in **Graphic & Multimedia Software**.</h3>
+<h3 align="center">I'm a <b>1st-year Computer Science student</b> at <b>Universiti Teknologi Malaysia</b>, specializing in <b>Graphic & Multimedia Software</b>.</h3>
 
 ---
 
@@ -15,17 +15,23 @@
   - Create innovative AI-driven solutions
 - 📫 How to reach me **wardinasafiah@graduate.utm.my**
 
----
-
-### Connect with me:
-<p>
-  <a href="your-instagram-link"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-  <a href="your-linkedin-link"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<p>
+![Profile Views](https://komarev.com/ghpvc/?username=wawasafiyyah&color=00d4d4&style=for-the-badge)
 
 ---
 
-## 💻 Languages & Tools:
+### 🔗 Connect with Me:
+<p align="left">
+  <a href="https://www.instagram.com/wawasafiyyah/" target="blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/wardina-safiah-harun-391a27253/" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+### 💻 Languages & Tools:
 ### 🔹 Programming
 <p>
   <a href="https://cplusplus.com/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
@@ -54,22 +60,11 @@
 
 ---
 
-### 🎉 **Fun Fact**  
-I’m a beginner at programming, but I’m full of curiosity and excitement to learn! 🚀  
+<h3 align="center">Stay tuned as I learn, grow, and share my journey here! 🚀</h3>
 
----
-
-### 🌍 **Visitor Counter**  
-![Profile Views](https://komarev.com/ghpvc/?username=wawasafiyyah&color=00d4d4&style=for-the-badge)
-
----
-
-Stay tuned as I learn, grow, and share my journey here! 🚀
-
-
-![Hello GIF](https://media.giphy.com/media/5AyrPKCGSgv2RsXnse/giphy.gif)  
-
-[via GIPHY](https://giphy.com/gifs/helloall-love-muslim-woman-5AyrPKCGSgv2RsXnse) 
+<p align="center">
+  <img src="https://media.giphy.com/media/5AyrPKCGSgv2RsXnse/giphy.gif" alt="GIF via GIPHY">
+</p>
 
 ---
 
