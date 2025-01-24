@@ -1,7 +1,7 @@
 # Hello! 👋  
 
-Welcome to my GitHub Profile!  
-I'm a **1st-year Computer Science student** at **Universiti Teknologi Malaysia**, specializing in **Graphic & Multimedia Software**.  
+<h3 align="center">Welcome to my GitHub Profile!</h3>
+<h3 align="center">I'm a **1st-year Computer Science student** at **Universiti Teknologi Malaysia**, specializing in **Graphic & Multimedia Software**.</h3>
 
 ---
 
@@ -12,7 +12,40 @@ I'm a **1st-year Computer Science student** at **Universiti Teknologi Malaysia**
   - Exploring the possibilities of artificial intelligence  
 - 🎯 **Future Goals**:  
   - Build intuitive and user-friendly applications  
-  - Create innovative AI-driven solutions  
+  - Create innovative AI-driven solutions
+- 📫 How to reach me **wardinasafiah@graduate.utm.my**
+
+---
+
+### Connect with me:
+<p>
+  <a href="your-instagram-link"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+  <a href="your-linkedin-link"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<p>
+
+---
+
+## 💻 Languages & Tools:
+### 🔹 Programming
+<p>
+  <a href="https://cplusplus.com/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+  <a href="https://www.w3.org/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+</p>
+
+### 🎨 Design & Editing
+<p>
+  <a href="https://www.canva.com/"><img src="https://img.icons8.com/color/48/000000/canva.png"/></a>
+  <a href="https://www.capcut.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/CapCut_Logo.svg/48px-CapCut_Logo.svg.png"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/></a>
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/></a>
+  <a href="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
+</p>
+
+---
+
+### GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wawasafiyyah&show_icons=true&theme=light)
+
 
 ---
 
