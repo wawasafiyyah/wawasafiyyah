@@ -15,12 +15,12 @@
   - Create innovative AI-driven solutions
 - 📫 How to reach me **wardinasafiah@graduate.utm.my**
 
-![Profile Views](https://komarev.com/ghpvc/?username=wawasafiyyah&color=00d4d4&style=for-the-badge)
-
-<a href="https://github.com/wawasafiyyah" target="_blank">
-  <img src="https://img.shields.io/github/followers/wawasafiyyah?logo=github&style=for-the-badge&color=00d4d4&labelColor=grey" />
-</a>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=wawasafiyyah&color=00d4d4&style=for-the-badge" />
+  <a href="https://github.com/wawasafiyyah" target="_blank">
+    <img src="https://img.shields.io/github/followers/wawasafiyyah?logo=github&style=for-the-badge&color=00d4d4&labelColor=grey" />
+  </a>
+</p>
 
 ---
 
