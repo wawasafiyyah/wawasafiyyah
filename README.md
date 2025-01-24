@@ -13,7 +13,7 @@
 - 🎯 **Future Goals**:  
   - Build intuitive and user-friendly applications  
   - Create innovative AI-driven solutions
-- 📫 How to reach me **wardinasafiah@graduate.utm.my**
+- 📫 **How to reach me**: **wardinasafiah@graduate.utm.my**
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=wawasafiyyah&color=00d4d4&style=for-the-badge" />
@@ -46,7 +46,6 @@
 ### 🎨 Design & Editing
 <p>
   <a href="https://www.canva.com/"><img src="https://img.icons8.com/color/48/000000/canva.png"/></a>
-  <a href="https://www.capcut.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/CapCut_Logo.svg/48px-CapCut_Logo.svg.png"/></a>
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/></a>
   <a href="https://www.adobe.com/products/illustrator.html"><img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/></a>
   <a href="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
